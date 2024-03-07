@@ -1,7 +1,7 @@
 # Video-based Road User Intention Recognition 
 Repository with the code and road user intention labels for the ECCV paper #1628
 
-<img src="figs/ruir.png" style="height: 200px; width:800px;"/>
+<img src="figs/ruir.png" style="height: 200px; width:700px;"/>
 
 ## Datasets
 ROAD / Oxford: https://github.com/gurkirt/road-dataset
