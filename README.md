@@ -1,4 +1,4 @@
-# Video-based Road User Intention Recognition 
+# ECCV submission 1628: Video-based Road User Intention Recognition 
 Repository with the code and road user intention labels (also the subset of the human experiment benchmark) for the ECCV submission #1628
 
 <img src="figs/ruir.png" style="height: 200px; width:700px;"/>
